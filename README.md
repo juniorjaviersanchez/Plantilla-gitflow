@@ -1,4 +1,4 @@
-# GPS-2025
+# Plantilla Gitflow
 
 Este proyecto utiliza el flujo de trabajo **Gitflow Workflow** para gestionar el desarrollo del código. A continuación, se describe la funcionalidad de cada rama y cómo se utilizan en este proyecto.
 
